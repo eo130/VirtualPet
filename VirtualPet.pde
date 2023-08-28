@@ -33,7 +33,4 @@ fill(#FCE000);
 ellipse(295,125,20,20);
 fill(#F5F3BC);
 triangle(285,120,295,100,305,120);
-fill(0,0,0);
-textSize(24);
-text("Hank the anglerfish",100,40);
 }
